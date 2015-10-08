@@ -1,4 +1,4 @@
 README 
 file
 test commit
-slave
+slave test
